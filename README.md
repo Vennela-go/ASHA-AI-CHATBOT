@@ -82,8 +82,10 @@ asha-ai-chatbot/
 
 ## 🙌 Credits
 
-Developed by **Vennela Godari**  
-B.Tech CSE, 2nd Year – Osmania University  
+Developed by **Vennela Godari** ,**Sathwika Kalvakuntla** ,**Saipuja Vadla**.
+
+B.Tech CSE, 2nd Year – Osmania University
+
 For **JobsForHer Foundation** – Empowering Women in Tech
 
 ---
